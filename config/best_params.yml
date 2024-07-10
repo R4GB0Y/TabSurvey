@@ -222,6 +222,15 @@ parameters: {
             drop_rate: 0
         },
     },
+    SuperNetBin: {
+        LinearModel: { },
+        XGBoost: {
+            max_depth: 10,
+            lambda: 0.002027302370853455,
+            alpha: 1.6949592690347182e-06,
+            eta: 0.2946757941617634
+        },
+    },
     Covertype: {
         LinearModel: { },
         KNN: {

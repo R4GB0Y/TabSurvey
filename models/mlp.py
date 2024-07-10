@@ -22,13 +22,13 @@ class MLP(BaseModelTorch):
         self.to_device()
 
     def fit(self, X, y, X_val=None, y_val=None):
-        X = np.array(X, dtype=np.float)
-        X_val = np.array(X_val, dtype=np.float)
+        X = np.array(X, dtype=np.float64)
+        X_val = np.array(X_val, dtype=np.float64)
 
         return super().fit(X, y, X_val, y_val)
 
     def predict_helper(self, X):
-        X = np.array(X, dtype=np.float)
+        X = np.array(X, dtype=np.float64)
         return super().predict_helper(X)
 
     @classmethod

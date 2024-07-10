@@ -2,7 +2,7 @@ import torch
 
 import numpy as np
 
-from .basemodel_torch import BaseModelTorch
+from .basemodel_torch  import BaseModelTorch
 from .deepfm_lib.models.deepfm import DeepFM as DeepFMModel
 from .deepfm_lib.inputs import SparseFeat, DenseFeat
 
@@ -41,10 +41,10 @@ class DeepFM(BaseModelTorch):
                                  gpus=self.gpus)
 
     def fit(self, X, y, X_val=None, y_val=None):
-        X = np.array(X, dtype=np.float)
-        X_dict = {str(name): X[:, name] for name in range(self.args.num_features)}
+        X = np.array(X, dtype=np.float64)
+        X_dict = {str(name): X[:, name] for name in range(self.args.num_features)}                      # changed from np.float to np.float64
 
-        X_val = np.array(X_val, dtype=np.float)
+        X_val = np.array(X_val, dtype=np.float64)
         X_val_dict = {str(name): X_val[:, name] for name in range(self.args.num_features)}
 
         if self.args.objective == "binary":

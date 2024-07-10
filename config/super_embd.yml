@@ -1,0 +1,36 @@
+# General parameters
+dataset: super_embd
+model_name: MLP # LinearModel, KNN, SVM, DecisionTree, RandomForest, XGBoost, CatBoost, LightGBM, ModelTree
+                # MLP, TabNet, VIME, TabTransformer, NODE, DeepGBM, RLN, DNFNet, STG, NAM, DeepFM, SAINT
+objective: binary # Don't change
+optimize_hyperparameters: True
+
+# GPU parameters
+use_gpu: True
+gpu_ids: [0]
+data_parallel: True
+
+# Optuna parameters - https://optuna.org/
+n_trials: 10
+direction: maximize
+
+# Cross validation parameters
+num_splits: 5
+shuffle: True
+seed: 221 # Don't change
+
+# Preprocessing parameters
+scale: False # data already preprocessed
+target_encode: False # got only categorical data
+one_hot_encode: False # just changed this one to deal with the discrete categories couldn't preprocess
+
+# Training parameters
+batch_size: 8196 #  2048
+val_batch_size: 16384 #  4096
+early_stopping_rounds: 20  # 20
+epochs: 30
+logging_period: 50
+
+# About the data
+num_classes: 1  # for binary classification
+num_features: 296
