@@ -5,7 +5,5 @@ __pycache/
 .ipynb_checkpoints/
 
 catboost_info/
-logs/
-output/
 
 *.db
