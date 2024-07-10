@@ -1,0 +1,18 @@
+2024-05-28 12:06:11.455071
+XGBoost - super_bin
+
+Log Loss - mean: 0.19760
+Log Loss - std: 0.00422
+AUC - mean: 0.98415
+AUC - std: 0.00190
+Accuracy - mean: 0.93092
+Accuracy - std: 0.00253
+F1 score - mean: 0.93092
+F1 score - std: 0.00253
+
+Train time: 27.974448
+Test time: 5.240961
+
+Best Parameters: {'max_depth': 4, 'alpha': 0.0009042361703075655, 'lambda': 0.00026794646327431753, 'eta': 0.2038049725446262, 'verbosity': 1, 'tree_method': 'gpu_hist', 'gpu_id': 0, 'objective': 'binary:logistic', 'eval_metric': 'auc'}
+
+

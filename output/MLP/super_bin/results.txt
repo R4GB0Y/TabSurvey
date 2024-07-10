@@ -1,0 +1,18 @@
+2024-06-06 12:45:32.583175
+MLP - super_bin
+
+Log Loss - mean: 0.24825
+Log Loss - std: 0.02383
+AUC - mean: 0.95520
+AUC - std: 0.00963
+Accuracy - mean: 0.89204
+Accuracy - std: 0.01211
+F1 score - mean: 0.89204
+F1 score - std: 0.01211
+
+Train time: 1035.464676
+Test time: 3.668410
+
+Best Parameters: {'hidden_dim': 42, 'n_layers': 4, 'learning_rate': 0.0005046370027703493}
+
+

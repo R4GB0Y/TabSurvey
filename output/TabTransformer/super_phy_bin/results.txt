@@ -1,0 +1,18 @@
+2024-07-04 10:47:57.510041
+TabTransformer - super_phy_bin
+
+Log Loss - mean: 0.44043
+Log Loss - std: 0.01617
+AUC - mean: 0.82789
+AUC - std: 0.01942
+Accuracy - mean: 0.80347
+Accuracy - std: 0.00936
+F1 score - mean: 0.80347
+F1 score - std: 0.00936
+
+Train time: 12.086494
+Test time: 0.187244
+
+Best Parameters: {'dim': 256, 'depth': 1, 'heads': 4, 'weight_decay': -5, 'learning_rate': -3, 'dropout': 0.1}
+
+

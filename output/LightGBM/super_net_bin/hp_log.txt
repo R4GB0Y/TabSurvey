@@ -1,0 +1,160 @@
+2024-05-17 11:04:12.996464
+Parameters: {'num_leaves': 112, 'lambda_l1': 0.00043542627142549367, 'lambda_l2': 1.6130562053045618e-06, 'learning_rate': 0.17066814563727786, 'verbosity': -1, 'objective': 'binary', 'metric': 'auc'}
+
+Log Loss - mean: 0.38236
+Log Loss - std: 0.00034
+AUC - mean: 0.86528
+AUC - std: 0.00029
+Accuracy - mean: 0.82739
+Accuracy - std: 0.00024
+F1 score - mean: 0.82739
+F1 score - std: 0.00024
+
+Train time: 3915.432547
+Test time: 5.350274
+
+---------------------------------------
+2024-05-17 11:09:17.575466
+Parameters: {'num_leaves': 46, 'lambda_l1': 0.00010935919255281268, 'lambda_l2': 3.335889537580717e-05, 'learning_rate': 0.06305242126305559, 'verbosity': -1, 'objective': 'binary', 'metric': 'auc'}
+
+Log Loss - mean: 0.41701
+Log Loss - std: 0.00074
+AUC - mean: 0.85339
+AUC - std: 0.00023
+Accuracy - mean: 0.82346
+Accuracy - std: 0.00011
+F1 score - mean: 0.82346
+F1 score - std: 0.00011
+
+Train time: 1687.078934
+Test time: 4.744223
+
+---------------------------------------
+2024-05-17 11:10:56.538433
+Parameters: {'num_leaves': 11, 'lambda_l1': 1.7983076524125022e-07, 'lambda_l2': 0.01129779262081909, 'learning_rate': 0.03238961519470012, 'verbosity': -1, 'objective': 'binary', 'metric': 'auc'}
+
+Log Loss - mean: 0.47377
+Log Loss - std: 0.00013
+AUC - mean: 0.83805
+AUC - std: 0.00022
+Accuracy - mean: 0.82076
+Accuracy - std: 0.00016
+F1 score - mean: 0.82076
+F1 score - std: 0.00016
+
+Train time: 483.891108
+Test time: 3.857686
+
+---------------------------------------
+2024-05-17 11:12:52.405362
+Parameters: {'num_leaves': 14, 'lambda_l1': 3.6157377589369156e-07, 'lambda_l2': 1.5238155975807632e-05, 'learning_rate': 0.04986613194671159, 'verbosity': -1, 'objective': 'binary', 'metric': 'auc'}
+
+Log Loss - mean: 0.43939
+Log Loss - std: 0.00109
+AUC - mean: 0.84100
+AUC - std: 0.00017
+Accuracy - mean: 0.82127
+Accuracy - std: 0.00016
+F1 score - mean: 0.82127
+F1 score - std: 0.00016
+
+Train time: 584.414741
+Test time: 3.917314
+
+---------------------------------------
+2024-05-17 11:20:36.475341
+Parameters: {'num_leaves': 74, 'lambda_l1': 0.03883445566988888, 'lambda_l2': 1.2906815293430697e-08, 'learning_rate': 0.11991437906587701, 'verbosity': -1, 'objective': 'binary', 'metric': 'auc'}
+
+Log Loss - mean: 0.39002
+Log Loss - std: 0.00038
+AUC - mean: 0.86088
+AUC - std: 0.00037
+Accuracy - mean: 0.82561
+Accuracy - std: 0.00025
+F1 score - mean: 0.82561
+F1 score - std: 0.00025
+
+Train time: 2632.822938
+Test time: 4.913256
+
+---------------------------------------
+2024-05-17 11:22:04.284124
+Parameters: {'num_leaves': 9, 'lambda_l1': 8.477393826559823, 'lambda_l2': 0.0004385158555291918, 'learning_rate': 0.13895273453372106, 'verbosity': -1, 'objective': 'binary', 'metric': 'auc'}
+
+Log Loss - mean: 0.40150
+Log Loss - std: 0.00048
+AUC - mean: 0.84687
+AUC - std: 0.00038
+Accuracy - mean: 0.82163
+Accuracy - std: 0.00017
+F1 score - mean: 0.82163
+F1 score - std: 0.00017
+
+Train time: 413.682259
+Test time: 3.666081
+
+---------------------------------------
+2024-05-17 11:25:18.332023
+Parameters: {'num_leaves': 27, 'lambda_l1': 1.878252422490354e-07, 'lambda_l2': 0.08861947170091268, 'learning_rate': 0.2320223739318117, 'verbosity': -1, 'objective': 'binary', 'metric': 'auc'}
+
+Log Loss - mean: 0.38834
+Log Loss - std: 0.00023
+AUC - mean: 0.85861
+AUC - std: 0.00025
+Accuracy - mean: 0.82526
+Accuracy - std: 0.00034
+F1 score - mean: 0.82526
+F1 score - std: 0.00034
+
+Train time: 1034.171723
+Test time: 4.109955
+
+---------------------------------------
+2024-05-17 12:56:24.493543
+Parameters: {'num_leaves': 961, 'lambda_l1': 0.19724672018117786, 'lambda_l2': 0.008345486377986166, 'learning_rate': 0.014515554052279703, 'verbosity': -1, 'objective': 'binary', 'metric': 'auc'}
+
+Log Loss - mean: 0.53375
+Log Loss - std: 0.00013
+AUC - mean: 0.86752
+AUC - std: 0.00027
+Accuracy - mean: 0.82727
+Accuracy - std: 0.00017
+F1 score - mean: 0.82727
+F1 score - std: 0.00017
+
+Train time: 32406.304442
+Test time: 6.678625
+
+---------------------------------------
+2024-05-17 13:32:12.933654
+Parameters: {'num_leaves': 373, 'lambda_l1': 0.002459949663983117, 'lambda_l2': 1.018434393814029e-08, 'learning_rate': 0.2426557849236752, 'verbosity': -1, 'objective': 'binary', 'metric': 'auc'}
+
+Log Loss - mean: 0.37404
+Log Loss - std: 0.00044
+AUC - mean: 0.87188
+AUC - std: 0.00037
+Accuracy - mean: 0.83023
+Accuracy - std: 0.00022
+F1 score - mean: 0.83023
+F1 score - std: 0.00022
+
+Train time: 12651.023181
+Test time: 5.998747
+
+---------------------------------------
+2024-05-17 16:00:28.182159
+Parameters: {'num_leaves': 1308, 'lambda_l1': 0.001994584557958387, 'lambda_l2': 1.457069639904647e-06, 'learning_rate': 0.015028051255326172, 'verbosity': -1, 'objective': 'binary', 'metric': 'auc'}
+
+Log Loss - mean: 0.52982
+Log Loss - std: 0.00013
+AUC - mean: 0.86885
+AUC - std: 0.00025
+Accuracy - mean: 0.82775
+Accuracy - std: 0.00023
+F1 score - mean: 0.82775
+F1 score - std: 0.00023
+
+Train time: 52776.572584
+Test time: 6.889925
+
+---------------------------------------

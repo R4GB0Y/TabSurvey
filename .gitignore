@@ -1,5 +1,8 @@
 __pycache/
 *.pyc
+*.pt
+*.npy
+*.pkl
 
 .idea/
 .ipynb_checkpoints/

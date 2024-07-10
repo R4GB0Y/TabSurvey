@@ -1,0 +1,160 @@
+2024-06-24 16:57:11.963603
+Parameters: {'dim': 256, 'depth': 12, 'heads': 8, 'weight_decay': -4, 'learning_rate': -4, 'dropout': 0.1}
+
+Log Loss - mean: 0.45595
+Log Loss - std: 0.00130
+AUC - mean: 0.77654
+AUC - std: 0.00982
+Accuracy - mean: 0.79308
+Accuracy - std: 0.00098
+F1 score - mean: 0.79308
+F1 score - std: 0.00098
+
+Train time: 5803.684374
+Test time: 17.979741
+
+---------------------------------------
+2024-06-24 20:18:02.271006
+Parameters: {'dim': 128, 'depth': 2, 'heads': 4, 'weight_decay': -2, 'learning_rate': -3, 'dropout': 0.3}
+
+Log Loss - mean: 0.53314
+Log Loss - std: 0.10264
+AUC - mean: 0.70212
+AUC - std: 0.11786
+Accuracy - mean: 0.71601
+Accuracy - std: 0.09875
+F1 score - mean: 0.71601
+F1 score - std: 0.09875
+
+Train time: 5715.899442
+Test time: 17.668963
+
+---------------------------------------
+2024-06-24 23:38:57.541417
+Parameters: {'dim': 128, 'depth': 6, 'heads': 8, 'weight_decay': -3, 'learning_rate': -6, 'dropout': 0}
+
+Log Loss - mean: 0.71066
+Log Loss - std: 0.04326
+AUC - mean: 0.56247
+AUC - std: 0.07053
+Accuracy - mean: 0.52032
+Accuracy - std: 0.09195
+F1 score - mean: 0.52032
+F1 score - std: 0.09195
+
+Train time: 5746.143802
+Test time: 17.779023
+
+---------------------------------------
+2024-06-25 02:57:42.291161
+Parameters: {'dim': 128, 'depth': 6, 'heads': 2, 'weight_decay': -2, 'learning_rate': -3, 'dropout': 0.1}
+
+Log Loss - mean: 0.45431
+Log Loss - std: 0.00527
+AUC - mean: 0.78234
+AUC - std: 0.01376
+Accuracy - mean: 0.79438
+Accuracy - std: 0.00220
+F1 score - mean: 0.79438
+F1 score - std: 0.00220
+
+Train time: 5737.345096
+Test time: 18.169091
+
+---------------------------------------
+2024-06-25 06:17:01.335723
+Parameters: {'dim': 64, 'depth': 3, 'heads': 4, 'weight_decay': -2, 'learning_rate': -5, 'dropout': 0.2}
+
+Log Loss - mean: 0.62905
+Log Loss - std: 0.03346
+AUC - mean: 0.71857
+AUC - std: 0.03835
+Accuracy - mean: 0.70634
+Accuracy - std: 0.03333
+F1 score - mean: 0.70634
+F1 score - std: 0.03333
+
+Train time: 5690.482133
+Test time: 17.476697
+
+---------------------------------------
+2024-06-25 09:37:52.009587
+Parameters: {'dim': 64, 'depth': 2, 'heads': 8, 'weight_decay': -3, 'learning_rate': -6, 'dropout': 0.3}
+
+Log Loss - mean: 0.69939
+Log Loss - std: 0.03047
+AUC - mean: 0.62825
+AUC - std: 0.08795
+Accuracy - mean: 0.51844
+Accuracy - std: 0.09036
+F1 score - mean: 0.51844
+F1 score - std: 0.09036
+
+Train time: 5723.425952
+Test time: 17.830298
+
+---------------------------------------
+2024-06-25 12:56:33.556888
+Parameters: {'dim': 128, 'depth': 3, 'heads': 2, 'weight_decay': -6, 'learning_rate': -5, 'dropout': 0.4}
+
+Log Loss - mean: 0.57897
+Log Loss - std: 0.05820
+AUC - mean: 0.71833
+AUC - std: 0.10800
+Accuracy - mean: 0.72803
+Accuracy - std: 0.06266
+F1 score - mean: 0.72803
+F1 score - std: 0.06266
+
+Train time: 5693.214383
+Test time: 17.813383
+
+---------------------------------------
+2024-06-25 16:17:32.034631
+Parameters: {'dim': 64, 'depth': 1, 'heads': 4, 'weight_decay': -2, 'learning_rate': -6, 'dropout': 0.5}
+
+Log Loss - mean: 0.68524
+Log Loss - std: 0.01834
+AUC - mean: 0.57268
+AUC - std: 0.06735
+Accuracy - mean: 0.55533
+Accuracy - std: 0.07378
+F1 score - mean: 0.55533
+F1 score - std: 0.07378
+
+Train time: 5701.199670
+Test time: 17.897702
+
+---------------------------------------
+2024-06-25 19:37:07.860696
+Parameters: {'dim': 256, 'depth': 2, 'heads': 4, 'weight_decay': -6, 'learning_rate': -6, 'dropout': 0}
+
+Log Loss - mean: 0.69032
+Log Loss - std: 0.02771
+AUC - mean: 0.60553
+AUC - std: 0.09602
+Accuracy - mean: 0.55533
+Accuracy - std: 0.07378
+F1 score - mean: 0.55533
+F1 score - std: 0.07378
+
+Train time: 5677.880102
+Test time: 18.088953
+
+---------------------------------------
+2024-06-25 22:56:59.496471
+Parameters: {'dim': 32, 'depth': 3, 'heads': 8, 'weight_decay': -2, 'learning_rate': -4, 'dropout': 0.2}
+
+Log Loss - mean: 0.53710
+Log Loss - std: 0.09938
+AUC - mean: 0.69586
+AUC - std: 0.11289
+Accuracy - mean: 0.71440
+Accuracy - std: 0.09663
+F1 score - mean: 0.71440
+F1 score - std: 0.09663
+
+Train time: 5683.742388
+Test time: 17.570223
+
+---------------------------------------

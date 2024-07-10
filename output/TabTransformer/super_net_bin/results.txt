@@ -1,0 +1,18 @@
+2024-06-26 02:16:10.832898
+TabTransformer - super_net_bin
+
+Log Loss - mean: 0.49182
+Log Loss - std: 0.07597
+AUC - mean: 0.75354
+AUC - std: 0.06693
+Accuracy - mean: 0.75458
+Accuracy - std: 0.07712
+F1 score - mean: 0.75458
+F1 score - std: 0.07712
+
+Train time: 5724.475120
+Test time: 17.750351
+
+Best Parameters: {'dim': 128, 'depth': 6, 'heads': 2, 'weight_decay': -2, 'learning_rate': -3, 'dropout': 0.1}
+
+

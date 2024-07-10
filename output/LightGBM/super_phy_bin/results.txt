@@ -1,0 +1,18 @@
+2024-06-24 09:40:07.858532
+LightGBM - super_phy_bin
+
+Log Loss - mean: 0.10374
+Log Loss - std: 0.00531
+AUC - mean: 0.99133
+AUC - std: 0.00181
+Accuracy - mean: 0.96865
+Accuracy - std: 0.00345
+F1 score - mean: 0.96865
+F1 score - std: 0.00345
+
+Train time: 4.426736
+Test time: 0.016170
+
+Best Parameters: {'num_leaves': 769, 'lambda_l1': 1.6850228760091852e-05, 'lambda_l2': 0.005412892369865952, 'learning_rate': 0.10088716283111783, 'verbosity': -1, 'objective': 'binary', 'metric': 'auc'}
+
+

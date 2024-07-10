@@ -1,0 +1,18 @@
+2024-05-17 16:36:25.569344
+LightGBM - super_net_bin
+
+Log Loss - mean: 0.37404
+Log Loss - std: 0.00044
+AUC - mean: 0.87188
+AUC - std: 0.00037
+Accuracy - mean: 0.83023
+Accuracy - std: 0.00022
+F1 score - mean: 0.83023
+F1 score - std: 0.00022
+
+Train time: 12637.483473
+Test time: 6.033768
+
+Best Parameters: {'num_leaves': 373, 'lambda_l1': 0.002459949663983117, 'lambda_l2': 1.018434393814029e-08, 'learning_rate': 0.2426557849236752, 'verbosity': -1, 'objective': 'binary', 'metric': 'auc'}
+
+

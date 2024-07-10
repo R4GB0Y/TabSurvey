@@ -1,0 +1,18 @@
+2024-06-24 09:52:15.865460
+RandomForest - super_phy_bin
+
+Log Loss - mean: 0.21054
+Log Loss - std: 0.01338
+AUC - mean: 0.97916
+AUC - std: 0.00259
+Accuracy - mean: 0.92942
+Accuracy - std: 0.00946
+F1 score - mean: 0.92942
+F1 score - std: 0.00946
+
+Train time: 0.040220
+Test time: 0.004465
+
+Best Parameters: {'max_depth': 10, 'n_estimators': 7}
+
+

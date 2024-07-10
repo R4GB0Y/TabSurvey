@@ -1,0 +1,18 @@
+2024-06-24 09:59:52.547610
+MLP - super_phy_bin
+
+Log Loss - mean: 0.35744
+Log Loss - std: 0.01303
+AUC - mean: 0.89585
+AUC - std: 0.00929
+Accuracy - mean: 0.84216
+Accuracy - std: 0.01157
+F1 score - mean: 0.84216
+F1 score - std: 0.01157
+
+Train time: 1.724160
+Test time: 0.124461
+
+Best Parameters: {'hidden_dim': 68, 'n_layers': 5, 'learning_rate': 0.0006464830791869179}
+
+

@@ -1,0 +1,36 @@
+2024-05-17 10:48:59.254912
+XGBoost - super_net_bin
+
+Log Loss - mean: 0.39061
+Log Loss - std: 0.00041
+AUC - mean: 0.85662
+AUC - std: 0.00055
+Accuracy - mean: 0.82358
+Accuracy - std: 0.00031
+F1 score - mean: 0.82358
+F1 score - std: 0.00031
+
+Train time: 11.944717
+Test time: 2.233149
+
+Best Parameters: {'max_depth': 7, 'alpha': 1.8426313706278368e-05, 'lambda': 0.024237837806394543, 'eta': 0.22627409438462298, 'verbosity': 1, 'tree_method': 'gpu_hist', 'gpu_id': 0, 'objective': 'binary:logistic', 'eval_metric': 'auc'}
+
+
+2024-05-20 10:46:30.628090
+XGBoost - super_net_bin
+
+Log Loss - mean: 0.38216
+Log Loss - std: 0.00037
+AUC - mean: 0.86452
+AUC - std: 0.00031
+Accuracy - mean: 0.82737
+Accuracy - std: 0.00023
+F1 score - mean: 0.82737
+F1 score - std: 0.00023
+
+Train time: 11.076838
+Test time: 2.083411
+
+Best Parameters: {'max_depth': 10, 'alpha': 1.6949592690347182e-06, 'lambda': 0.002027302370853455, 'eta': 0.2946757941617634, 'verbosity': 1, 'tree_method': 'gpu_hist', 'gpu_id': 0, 'objective': 'binary:logistic', 'eval_metric': 'auc'}
+
+

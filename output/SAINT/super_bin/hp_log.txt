@@ -1,0 +1,17 @@
+2024-06-16 14:20:29.026859
+Parameters: {'dim': 32, 'depth': 1, 'heads': 2, 'dropout': 0.5}
+
+
+Log Loss - mean: 0.25968
+Log Loss - std: 0.08716
+AUC - mean: 0.98507
+AUC - std: 0.00730
+Accuracy - mean: 0.95063
+Accuracy - std: 0.01972
+F1 score - mean: 0.94193
+F1 score - std: 0.01972
+
+Train time: 92476.091932
+Test time: 58.085194
+
+---------------------------------------
